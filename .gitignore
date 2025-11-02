@@ -1,0 +1,3 @@
+#Ignore database files, but keep the directory structure
+/database/*
+!/database/.gitkeep
